@@ -64,6 +64,11 @@ It's considered to be one of the most useful ML algorithms, also it is suitable 
 <img src="https://nancysalah.github.io/assets/images/Decision Tree.png">
 <figcaption class="caption">Decision Tree</figcaption>
 
+<ol>
+<li>Accuracy = 92.1%</li>
+<li>Sensitivity = 93.1%</li>
+<li>Specificity = 90.68%</li>
+</ol>
 
 
 <hr>
@@ -72,8 +77,10 @@ It's considered to be one of the most useful ML algorithms, also it is suitable 
 ## 3.2. Naive Bayes
 The Naive Bayes classifiers are working based on the Bayes' theorem, which describes the probability of an event based on prior knowledge of conditions be related of conditions to the event.
 Bayes' Theorem: P(A|B) = (P(B|A) * P(A)) / P(B)
+
 <img src="https://nancysalah.github.io/assets/images/Naive Bayes.png">
 <figcaption class="caption">Naive Bayes</figcaption>
+
 <ol>
 <li>Accuracy = 93.8%</li>
 <li>Sensitivity = 95.69%</li>
@@ -86,9 +93,10 @@ Bayes' Theorem: P(A|B) = (P(B|A) * P(A)) / P(B)
 
 ## 3.3. KNN 
 In k-NN classification, the output is a class membership. An object is classified by a plurality vote of its k nearest neighbors.
-<img src="https://nancysalah.github.io/assets/images/KNN.png"><ol>
+<img src="https://nancysalah.github.io/assets/images/KNN.png">
 <figcaption class="caption">KNN</figcaption>
 
+<ol>
 <li>Accuracy = 96.67%</li>
 <li>Sensitivity = 99.47%</li>
 <li>Specificity = 92.29%</li>
