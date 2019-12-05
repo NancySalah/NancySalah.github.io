@@ -41,7 +41,7 @@ To avoid irrelevant or redundant features that may have a negative effect on the
 <hr>
 
 ## 2. Plotting Importance
-<img src="https://amanybahaaeldin.github.io/assets/images/Importance.png">
+<img src="https://nancysalah.github.io/assets/images/Importance.png">
 <figcaption class="caption">Importance</figcaption>
 
 
@@ -61,7 +61,7 @@ In machine learning, classification is the process of identifying to which of a 
 ## 3.1. Decision Tree
 A Decision Tree is a supervised ML algorithm wherein each node represents a feature, the link between the nodes represents a decision and each leaf node represents an outcome.
 It's considered to be one of the most useful ML algorithms, also it is suitable for our dataset as it is used extensively for diagnosis of diseases such as breast cancer, ovarian cancer, heart sound diagnosis, etc. 
-<img src="https://amanybahaaeldin.github.io/assets/images/Decision Tree.png">
+<img src="https://nancysalah.github.io/assets/images/Decision Tree.png">
 <figcaption class="caption">Decision Tree</figcaption>
 
 
@@ -72,7 +72,7 @@ It's considered to be one of the most useful ML algorithms, also it is suitable 
 ## 3.2. Naive Bayes
 The Naive Bayes classifiers are working based on the Bayes' theorem, which describes the probability of an event based on prior knowledge of conditions be related of conditions to the event.
 Bayes' Theorem: P(A|B) = (P(B|A) * P(A)) / P(B)
-<img src="https://amanybahaaeldin.github.io/assets/images/Naive Bayes.png">
+<img src="https://nancysalah.github.io/assets/images/Naive Bayes.png">
 <figcaption class="caption">Naive Bayes</figcaption>
 <ol>
 <li>Accuracy = 93.8%</li>
@@ -86,7 +86,7 @@ Bayes' Theorem: P(A|B) = (P(B|A) * P(A)) / P(B)
 
 ## 3.3. KNN 
 In k-NN classification, the output is a class membership. An object is classified by a plurality vote of its k nearest neighbors.
-<img src="https://amanybahaaeldin.github.io/assets/images/KNN.png"><ol>
+<img src="https://nancysalah.github.io/assets/images/KNN.png"><ol>
 <figcaption class="caption">KNN</figcaption>
 
 <li>Accuracy = 96.67%</li>
